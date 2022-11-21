@@ -1,0 +1,12 @@
+TASK:
+
+Consider an ATM machine system to be implemented using ESP32. A user should be able to login the system using a username and password. Let username and password along with an opening balance of 15000 be already available in a Google Spreadsheet.
+Post identification,  a user should be able to debit and/or credit a said amount in multiple of 100. 
+Post Transaction, the balance should get modified and a summary including the opening balance, debit/ credit Transactions and currect balance should be seen in Google Spreadsheet and Serial Monitor.
+Any relevant additional Facilities (15% weightage).
+You have freedom of coding language (C or Python or something else), input/acquisition method (e.g. touch pins or a Telegram bot) for improving the user experience. 
+
+Post implementation, you need to upload/ submit the following:
+
+A detailed report similar to a lab record with included codes (no screenshot of code), supporting demonstration pictures, and any supporting information, to be uploaded on Turnitin.
+Upload video on your YouTube channel and submit the link.
